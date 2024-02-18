@@ -55,7 +55,7 @@ Contains main source of inspiration and history of the making of FitnessHelp
 
 ## Dashboard
 
-![Screenshot 2023-04-03 093325](https://user-images.githubusercontent.com/112800148/229409484-6b5a77da-110e-455b-8a4b-65ce36d0d22f.png)
+Contains all the data related to your nutrition and calorie intake and predicts your calorie consumption through graphs.
 
 
 
