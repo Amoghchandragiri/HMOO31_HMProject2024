@@ -60,6 +60,7 @@ Contains all the data related to your nutrition and calorie intake and predicts 
 
 
 ## Diary Page
+It gives distribution of intake of food in calories of various ingredients you eat. You can also add foods of your preference to it.
 
 ![Screenshot 2023-04-03 094612](https://user-images.githubusercontent.com/112800148/229410223-3fcc7b5b-5de7-4dc5-954b-94e9cdeb28b0.png)
 ![Screenshot 2023-04-03 093438](https://user-images.githubusercontent.com/112800148/229409516-588ea2bc-1a0d-4470-ae29-ec8e4722363a.png)
@@ -71,14 +72,7 @@ Contains all the data related to your nutrition and calorie intake and predicts 
 ![Screenshot 2023-04-03 093514](https://user-images.githubusercontent.com/112800148/229409547-45d22936-4842-4cb3-a327-c95a849989e0.png)
 
 
-## User's Page
 
-![Screenshot 2023-04-03 093614](https://user-images.githubusercontent.com/112800148/229409930-0f19e9a6-1a7d-4c17-bfbc-da129421f3b2.png)
-
-
-## Data Page
-
-![Screenshot 2023-04-03 093625](https://user-images.githubusercontent.com/112800148/229409940-188a126f-edd5-4dae-93a1-c2130ec73a91.png)
 
 
 ## Add Nutrients Page
