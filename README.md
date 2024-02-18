@@ -63,9 +63,6 @@ Contains all the data related to your nutrition and calorie intake and predicts 
 It gives distribution of intake of food in calories of various ingredients you eat. You can also add foods of your preference to it.
 
 ![Screenshot 2023-04-03 094612](https://user-images.githubusercontent.com/112800148/229410223-3fcc7b5b-5de7-4dc5-954b-94e9cdeb28b0.png)
-![Screenshot 2023-04-03 093438](https://user-images.githubusercontent.com/112800148/229409516-588ea2bc-1a0d-4470-ae29-ec8e4722363a.png)
-![Screenshot 2023-04-03 093450](https://user-images.githubusercontent.com/112800148/229409538-e4eb380c-7aae-4812-9c31-015787096e78.png)
-
 
 ## Plans Page
 
